@@ -1,0 +1,17 @@
+{
+  "name": "nodeblog",
+  "version": "1.0.0",
+  "description": "A Tutorial to learn NodeJS App Development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Thibaud Chauvière <tchauviere@chovisys.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "recursive-readdir": "^2.2.2",
+    "twig": "^1.15.4"
+  }
+}
